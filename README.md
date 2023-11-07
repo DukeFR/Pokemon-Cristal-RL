@@ -6,6 +6,6 @@ Based on this repo : https://github.com/PWhiddy/PokemonRedExperiments
 
 This is not final version, just testing stuff out!
 
-Currently using a state where the trainer already got a pokemon
+Currently using a state (go.state) where the trainer already got a pokemon
 
 Using Cuda
